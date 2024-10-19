@@ -58,7 +58,6 @@ The application uses WebSockets for bidirectional, real-time communication:
 ## Security Considerations
 
 - Input validation on both client and server sides.
-- Rate limiting to prevent spam or DOS attacks.
 - Authentication for players (if implementing user accounts).
 
 ## Scalability
@@ -72,5 +71,4 @@ The application uses WebSockets for bidirectional, real-time communication:
 - Add spectator mode for ongoing games.
 - Introduce player rankings and leaderboards.
 
-[Add sections on setup, dependencies, and running the project as needed]
 
