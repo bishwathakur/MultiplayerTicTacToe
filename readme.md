@@ -51,7 +51,7 @@ The application uses WebSockets for bidirectional, real-time communication:
 
 ## Data Structures
 
-1. **Game Board**: Represented as a 3x3 array or list.
+1. **Game Board**: Represented as a list of 9 strings, where each string can be "X", "O", or "" (empty).
 2. **Player**: Contains player ID, name, and symbol (X or O).
 3. **Room**: Includes room ID, players, current game state, and move history.
 
